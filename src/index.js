@@ -14,6 +14,3 @@ const player2 = {
   PONTOS: 0,
 };
 
-async function rollDice() {
-  return Math.floor(Math.random() * 6) + 1;
-}
